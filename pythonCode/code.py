@@ -1,2 +1,4 @@
-a = input("escreve o que vc quer que mostre na tela")
-print(a)
+def soma():
+    a = input("numero 1")
+    b = input("numero 1")
+    return a+b
